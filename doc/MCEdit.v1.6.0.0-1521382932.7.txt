@@ -1,13 +1,13 @@
 Makeself version 2.1.5
- 1) Getting help or info about MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run :
-  MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run --help   Print this message
-  MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run --info   Print embedded info : title, default target directory, embedded script ...
-  MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run --lsm    Print embedded lsm entry (or no LSM)
-  MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run --list   Print the list of files in the archive
-  MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run --check  Checks integrity of the archive
+ 1) Getting help or info about MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run :
+  MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run --help   Print this message
+  MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run --info   Print embedded info : title, default target directory, embedded script ...
+  MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run --lsm    Print embedded lsm entry (or no LSM)
+  MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run --list   Print the list of files in the archive
+  MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run --check  Checks integrity of the archive
  
- 2) Running MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run :
-  MCEdit.v1.6.0.0-1520680447.69.Lin.Universal.run [options] [--] [additional arguments to embedded script]
+ 2) Running MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run :
+  MCEdit.v1.6.0.0-1521382932.7.Lin.Universal.run [options] [--] [additional arguments to embedded script]
   with following options (in that order)
   --confirm             Ask before running embedded script
   --noexec              Do not run embedded script

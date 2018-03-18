@@ -20,7 +20,7 @@ However, the Linux builds are not triggered on a regular basis.
 * These testing releases are roughly tested and may not work at all.
   * If the installer do not work, or MCEdit do not start, please report **here**.
   * All other issues shall be reported to [the source code repository](https://github.com/Podshot/MCEdit-Unified/issues).
-* [RTFD](https://github.com/LaChal/MCEdit-Unified-Linux-Preview/doc).
+* [RTFD](https://github.com/LaChal/MCEdit-Unified-Linux-Preview/tree/master/doc).
 
 Note that I'm not responsible in case of data loss or corruption!
 
@@ -38,9 +38,9 @@ This repository contains:
   * `MCEdit-XXXXXX.ctrl`: The self-extractable CRC and MD5 hashes for integrity verification.
   * `MCEdit-XXXXXX.txt`: The self-extractable `--help` output.
 * `pymclevel/`
-  * libleveldb.so`: Symbolic link to `libleveldb.so.1.20`
-  * libleveldb.so.1`: Symbolic link to `libleveldb.so.1.20`
-  * libleveldb.so`: Binary support for PE (and Bedrock?) worlds.
+  * `libleveldb.so`: Symbolic link to `libleveldb.so.1.20`
+  * `libleveldb.so.1`: Symbolic link to `libleveldb.so.1.20`
+  * `libleveldb.so`: Binary support for PE (and Bedrock?) worlds.
 
 The releases `.tar.gz` and `.zip` archives contains this repository files, not the installer.  
 The `.run` file is the actual installer, it does not contain this repository files.

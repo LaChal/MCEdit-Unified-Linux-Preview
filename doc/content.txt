@@ -1,196 +1,196 @@
-Target directory: mcedit-1.6.0.0-1520680447.69
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./
--rw-rw-r-- user/group      3232 2018-03-10 12:16 ./favicon.png
--rw-rw-r-- user/group       262 2018-03-10 12:16 ./RELEASE-VERSION.json
--rwxrwxr-x user/group       621 2018-03-10 12:16 ./install.sh
--rw-rw-r-- user/group      2581 2018-03-10 12:16 ./folder.png
--rwxrwxr-x user/group       396 2018-03-10 12:16 ./mcedit.sh
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./fonts/
--rw-rw-r-- user/group   5482304 2018-03-10 12:16 ./fonts/NotoSansTC-Bold.ttf
--rw-rw-r-- user/group   5488432 2018-03-10 12:16 ./fonts/NotoSansTC-Medium.ttf
--rw-rw-r-- user/group   8063724 2018-03-10 12:16 ./fonts/NotoSansHans-Medium.ttf
--rw-rw-r-- user/group   2729368 2018-03-10 12:16 ./fonts/NotoSansKr-Light.ttf
--rw-rw-r-- user/group    693876 2018-03-10 12:16 ./fonts/DejaVuSans-Bold.ttf
--rw-rw-r-- user/group   2677568 2018-03-10 12:16 ./fonts/NotoSansKr-Medium.ttf
--rw-rw-r-- user/group    741536 2018-03-10 12:16 ./fonts/DejaVuSans-Regular.ttf
--rw-rw-r-- user/group   8054592 2018-03-10 12:16 ./fonts/NotoSansHans-Bold.ttf
--rw-rw-r-- user/group    264424 2018-03-10 12:16 ./terrain.png
--rw-rw-r-- user/group     13552 2018-03-10 12:16 ./LINUX_INSTALL.txt
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./stock-schematics/
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./stock-schematics/Spawners/
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Spider Spawner.schematic
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Wolf Spawner.schematic
--rw-rw-r-- user/group       293 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Zombie.schematic
--rw-rw-r-- user/group       301 2018-03-10 12:16 ./stock-schematics/Spawners/Zombie Baby Villager Spawner.schematic
--rw-rw-r-- user/group       241 2018-03-10 12:16 ./stock-schematics/Spawners/Zombie Spawner.schematic
--rw-rw-r-- user/group       243 2018-03-10 12:16 ./stock-schematics/Spawners/Wither Spawner.schematic
--rw-rw-r-- user/group       239 2018-03-10 12:16 ./stock-schematics/Spawners/Slime Spawner.schematic
--rw-rw-r-- user/group       241 2018-03-10 12:16 ./stock-schematics/Spawners/Pig Spawner.schematic
--rw-rw-r-- user/group       331 2018-03-10 12:16 ./stock-schematics/Spawners/Wither Jockey Spawner.schematic
--rw-rw-r-- user/group       241 2018-03-10 12:16 ./stock-schematics/Spawners/Ocelot Spawner.schematic
--rw-rw-r-- user/group       242 2018-03-10 12:16 ./stock-schematics/Spawners/Magma Cube Spawner.schematic
--rw-rw-r-- user/group       243 2018-03-10 12:16 ./stock-schematics/Spawners/Chicken Spawner.schematic
--rw-rw-r-- user/group       239 2018-03-10 12:16 ./stock-schematics/Spawners/Witch Spawner.schematic
--rw-rw-r-- user/group       242 2018-03-10 12:16 ./stock-schematics/Spawners/Cow Spawner.schematic
--rw-rw-r-- user/group       239 2018-03-10 12:16 ./stock-schematics/Spawners/Snow Golom Spawner.schematic
--rw-rw-r-- user/group       289 2018-03-10 12:16 ./stock-schematics/Spawners/Baby Zombie Spawner.schematic
--rw-rw-r-- user/group       128 2018-03-10 12:16 ./stock-schematics/Spawners/Skeleton Spawner No Weapon.schematic
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Squid Spawner.schematic
--rw-rw-r-- user/group       247 2018-03-10 12:16 ./stock-schematics/Spawners/Iron Golom Spawner.schematic
--rw-rw-r-- user/group       243 2018-03-10 12:16 ./stock-schematics/Spawners/Cave Spider Spawner.schematic
--rw-rw-r-- user/group       296 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Generic Spawner.schematic
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Creeper Spawner.schematic
--rw-rw-r-- user/group       244 2018-03-10 12:16 ./stock-schematics/Spawners/Horse Spawner.schematic
--rw-rw-r-- user/group       294 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Librarian Spawner.schematic
--rw-rw-r-- user/group       630 2018-03-10 12:16 ./stock-schematics/Spawners/Baby Zombie Pigman Spawner.schematic
--rw-rw-r-- user/group       245 2018-03-10 12:16 ./stock-schematics/Spawners/Ender Dragon Spawner.schematic
--rw-rw-r-- user/group       238 2018-03-10 12:16 ./stock-schematics/Spawners/Bat Spawner.schematic
--rw-rw-r-- user/group       324 2018-03-10 12:16 ./stock-schematics/Spawners/Spider Jockey Spawner.schematic
--rw-rw-r-- user/group       293 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Priest Spawner.schematic
--rw-rw-r-- user/group       271 2018-03-10 12:16 ./stock-schematics/Spawners/Minecart.schematic
--rw-rw-r-- user/group       317 2018-03-10 12:16 ./stock-schematics/Spawners/Wither Skeleleton Spawner.schematic
--rw-rw-r-- user/group       243 2018-03-10 12:16 ./stock-schematics/Spawners/Sivlerfish Spawner.schematic
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Ghast Spawner.schematic
--rw-rw-r-- user/group       287 2018-03-10 12:16 ./stock-schematics/Spawners/Saddle Pig Spawner.schematic
--rw-rw-r-- user/group       295 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Blacksmith Spawner.schematic
--rw-rw-r-- user/group       439 2018-03-10 12:16 ./stock-schematics/Spawners/Giant Spawner.schematic
--rw-rw-r-- user/group       244 2018-03-10 12:16 ./stock-schematics/Spawners/Zombie Pigman Spawner.schematic
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Enderman Spawner.schematic
--rw-rw-r-- user/group       242 2018-03-10 12:16 ./stock-schematics/Spawners/Skeleton Spawner.schematic
--rw-rw-r-- user/group       244 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Spawner.schematic
--rw-rw-r-- user/group       292 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Farmer Spawner.schematic
--rw-rw-r-- user/group       287 2018-03-10 12:16 ./stock-schematics/Spawners/Charged Creeper Spawner.schematic
--rw-rw-r-- user/group       240 2018-03-10 12:16 ./stock-schematics/Spawners/Blaze Spawner.schematic
--rw-rw-r-- user/group       295 2018-03-10 12:16 ./stock-schematics/Spawners/Villager Butcher Spawner.schematic
--rw-rw-r-- user/group       245 2018-03-10 12:16 ./stock-schematics/Spawners/Mooshroom Spawner.schematic
--rw-rw-r-- user/group       242 2018-03-10 12:16 ./stock-schematics/Spawners/Sheep Spawner.schematic
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/
--rw-rw-r-- user/group       317 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/slime.schematic
--rw-rw-r-- user/group       316 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/ghast.schematic
--rw-rw-r-- user/group       496 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/wolf.schematic
--rw-rw-r-- user/group       330 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/spider.schematic
--rw-rw-r-- user/group       498 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/zombie.schematic
--rw-rw-r-- user/group       498 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/creeper.schematic
--rw-rw-r-- user/group       499 2018-03-10 12:16 ./stock-schematics/Mobs in Jars/skeleton.schematic
--rw-rw-r-- user/group    272334 2018-03-10 12:16 ./terrain-pocket.png
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./Items/
--rw-rw-r-- user/group      1838 2018-03-10 12:16 ./Items/en_GB
--rw-rw-r-- user/group      1926 2018-03-10 12:16 ./Items/sv_SE
--rw-rw-r-- user/group      1899 2018-03-10 12:16 ./Items/zh_CN
--rw-rw-r-- user/group      1977 2018-03-10 12:16 ./Items/fr_FR
--rw-rw-r-- user/group      1984 2018-03-10 12:16 ./Items/de_DE
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./Items/minecraft/
--rw-rw-r-- user/group     36901 2018-03-10 12:16 ./Items/minecraft/blocks.json
--rw-rw-r-- user/group     39592 2018-03-10 12:16 ./Items/minecraft/items.json
--rw-rw-r-- user/group      3111 2018-03-10 12:16 ./TRANSLATION.txt
--rw-rw-r-- user/group      1679 2018-03-10 12:16 ./Nbtsheet.png
--rw-rw-r-- user/group      3939 2018-03-10 12:16 ./CONTRIBUTING.md
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./mcver/
--rw-rw-r-- user/group      1365 2018-03-10 12:16 ./mcver/mcver.txt
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./mcver/1.11.2/
--rw-rw-r-- user/group        17 2018-03-10 12:16 ./mcver/1.11.2/blocks.json
--rw-rw-r-- user/group        17 2018-03-10 12:16 ./mcver/1.11.2/tileentities.json
--rw-rw-r-- user/group        17 2018-03-10 12:16 ./mcver/1.11.2/entities.json
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./mcver/1.12/
--rw-rw-r-- user/group     36765 2018-03-10 12:16 ./mcver/1.12/blocks.json
--rw-rw-r-- user/group       755 2018-03-10 12:16 ./mcver/1.12/entities.json
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./mcver/PE/
--rw-rw-r-- user/group    370618 2018-03-10 12:16 ./mcver/PE/blocks.json
--rw-rw-r-- user/group     12334 2018-03-10 12:16 ./mcver/PE/entities.json
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./mcver/1.11/
--rw-rw-r-- user/group    167072 2018-03-10 12:16 ./mcver/1.11/blocks.json
--rw-rw-r-- user/group      2139 2018-03-10 12:16 ./mcver/1.11/tileentities.json
--rw-rw-r-- user/group     17193 2018-03-10 12:16 ./mcver/1.11/entities.json
--rw-rw-r-- user/group      1708 2018-03-10 12:16 ./char.png
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./stock-filters/
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./stock-filters/demo/
--rwxrwxr-x user/group      5141 2018-03-10 12:16 ./stock-filters/demo/filterdemo.py
--rwxrwxr-x user/group      4177 2018-03-10 12:16 ./stock-filters/demo/Test.py
--rwxrwxr-x user/group      2281 2018-03-10 12:16 ./stock-filters/smooth.py
--rw-rw-r-- user/group      2350 2018-03-10 12:16 ./stock-filters/smoothshape.py
--rwxrwxr-x user/group     10724 2018-03-10 12:16 ./stock-filters/decliff.py
--rw-rw-r-- user/group       509 2018-03-10 12:16 ./stock-filters/test.py
--rw-rw-r-- user/group      1511 2018-03-10 12:16 ./stock-filters/mcInterface.py
--rwxrwxr-x user/group      1879 2018-03-10 12:16 ./stock-filters/AddPotionEffect.py
--rwxrwxr-x user/group     51634 2018-03-10 12:16 ./stock-filters/Forester.py
--rw-rw-r-- user/group      3622 2018-03-10 12:16 ./stock-filters/NBTEdit.py
--rwxrwxr-x user/group      3683 2018-03-10 12:16 ./stock-filters/MCEditForester.py
--rw-rw-r-- user/group     13288 2018-03-10 12:16 ./stock-filters/Find.py
--rwxrwxr-x user/group      1963 2018-03-10 12:16 ./stock-filters/surfacerepair.py
--rw-rw-r-- user/group      8945 2018-03-10 12:16 ./stock-filters/CreateShops.py
--rwxrwxr-x user/group     12797 2018-03-10 12:16 ./stock-filters/CreateBusses.py
--rwxrwxr-x user/group      5274 2018-03-10 12:16 ./stock-filters/colorwires.py
--rwxrwxr-x user/group      3211 2018-03-10 12:16 ./stock-filters/topsoil.py
--rwxrwxr-x user/group      2508 2018-03-10 12:16 ./stock-filters/floodwater.py
--rwxrwxr-x user/group      5569 2018-03-10 12:16 ./stock-filters/setbiome.py
--rwxrwxr-x user/group      1626 2018-03-10 12:16 ./stock-filters/CreateSpawners.py
--rwxrwxr-x user/group      1817 2018-03-10 12:16 ./stock-filters/BanSlimes.py
--rwxrwxr-x user/group      4280 2018-03-10 12:16 ./stock-filters/ChangeMobs.py
--rwxrwxr-x user/group      1075 2018-03-10 12:16 ./stock-filters/Invincible.py
--rw-rw-r-- user/group    320836 2018-03-10 12:16 ./splash.png
--rw-rw-r-- user/group    101130 2018-03-10 12:16 ./png.py
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./splashes/
--rw-rw-r-- user/group    109034 2018-03-10 12:16 ./splashes/splash2.png
--rw-rw-r-- user/group    320836 2018-03-10 12:16 ./splashes/splash0.png
--rw-rw-r-- user/group    194948 2018-03-10 12:16 ./splashes/imgo1.png
--rw-rw-r-- user/group    117324 2018-03-10 12:16 ./splashes/splash1.png
--rw-rw-r-- user/group     16418 2018-03-10 12:16 ./gui.png
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./lang/
--rw-rw-r-- user/group     46801 2018-03-10 12:16 ./lang/cs_CZ.trn
--rw-rw-r-- user/group     34475 2018-03-10 12:16 ./lang/template.trn
--rw-rw-r-- user/group     61470 2018-03-10 12:16 ./lang/de_DE.trn
--rw-rw-r-- user/group     56103 2018-03-10 12:16 ./lang/zh_CN.trn
--rw-rw-r-- user/group     46817 2018-03-10 12:16 ./lang/nl_NL.trn
--rw-rw-r-- user/group     49382 2018-03-10 12:16 ./lang/zh_TW.trn
--rw-rw-r-- user/group     59930 2018-03-10 12:16 ./lang/ko_KR.trn
--rw-rw-r-- user/group     47846 2018-03-10 12:16 ./lang/sv_SE.trn
--rw-rw-r-- user/group     60350 2018-03-10 12:16 ./lang/fr_FR.trn
--rw-rw-r-- user/group   1782921 2018-03-10 12:16 ./LR5_mzu.fot
--rw-rw-r-- user/group     92160 2018-03-10 12:16 ./xlib.tar.gz
--rw-rw-r-- user/group      4445 2018-03-10 12:16 ./bo3.def
--rwxrwxr-x user/group    627992 2018-03-10 12:16 ./cpngfilters.so
--rw-rw-r-- user/group      2709 2018-03-10 12:16 ./setup.py
--rw-rw-r-- user/group       752 2018-03-10 12:16 ./LICENSE.txt
--rw-rw-r-- user/group      2223 2018-03-10 12:16 ./file.png
--rw-rw-r-- user/group    114838 2018-03-10 12:16 ./install.pyc
--rwxrwxr-x user/group    729466 2018-03-10 12:16 ./mcedit
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./toolicons/
--rw-rw-r-- user/group      3046 2018-03-10 12:16 ./toolicons/player.png
--rw-rw-r-- user/group       472 2018-03-10 12:16 ./toolicons/session_good.png
--rw-rw-r-- user/group      2960 2018-03-10 12:16 ./toolicons/chunk.png
--rw-rw-r-- user/group     24236 2018-03-10 12:16 ./toolicons/compass.png
--rw-rw-r-- user/group      3061 2018-03-10 12:16 ./toolicons/selection2.png
--rw-rw-r-- user/group      3114 2018-03-10 12:16 ./toolicons/schematic.png
--rw-rw-r-- user/group       461 2018-03-10 12:16 ./toolicons/session_bad.png
--rw-rw-r-- user/group      2878 2018-03-10 12:16 ./toolicons/clone.png
--rw-rw-r-- user/group      2890 2018-03-10 12:16 ./toolicons/brush.png
--rw-rw-r-- user/group      3188 2018-03-10 12:16 ./toolicons/crane.png
--rw-rw-r-- user/group      3049 2018-03-10 12:16 ./toolicons/selection.png
--rw-rw-r-- user/group      1219 2018-03-10 12:16 ./toolicons/nbtexplorer.png
--rw-rw-r-- user/group      3043 2018-03-10 12:16 ./toolicons/fill.png
--rw-rw-r-- user/group      1280 2018-03-10 12:16 ./toolicons/filter.png
--rw-rw-r-- user/group      3178 2018-03-10 12:16 ./toolicons/playerspawn.png
--rw-rw-r-- user/group      4404 2018-03-10 12:16 ./toolicons/day_night_cycle.png
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./pymclevel/
--rw-rw-r-- user/group         7 2018-03-10 12:16 ./pymclevel/requirements_test.txt
--rwxr--r-- user/group      2760 2018-03-10 12:16 ./pymclevel/nbt_test_linux.py
--rw-rw-r-- user/group       180 2018-03-10 12:16 ./pymclevel/eula.txt
--rw-rw-r-- user/group       105 2018-03-10 12:16 ./pymclevel/profimg.sh
--rw-rw-r-- user/group        13 2018-03-10 12:16 ./pymclevel/requirements.txt
--rw-rw-r-- user/group     14949 2018-03-10 12:16 ./pymclevel/classic.json
--rw-rw-r-- user/group     29283 2018-03-10 12:16 ./pymclevel/_nbt.pyx
--rw-rw-r-- user/group        53 2018-03-10 12:16 ./pymclevel/setup.cfg
--rwxrwxr-x user/group   1365745 2018-03-10 12:16 ./pymclevel/_nbt.so
--rw-rw-r-- user/group     22027 2018-03-10 12:16 ./pymclevel/indev.json
-lrwxrwxrwx user/group         0 2018-03-10 12:16 ./pymclevel/libleveldb.so -> libleveldb.so.1.20
--rw-rw-r-- user/group     35969 2018-03-10 12:16 ./pymclevel/test_leveldb.py
--rw-rw-r-- user/group      5917 2018-03-10 12:16 ./pymclevel/run_regression_test.py
--rw-rw-r-- user/group    142654 2018-03-10 12:16 ./pymclevel/pe_blockstates.json
-lrwxrwxrwx user/group         0 2018-03-10 12:16 ./pymclevel/libleveldb.so.1 -> libleveldb.so.1.20
--rwxrwxr-x user/group    435170 2018-03-10 12:16 ./pymclevel/libleveldb.so.1.20
--rw-rw-r-- user/group        99 2018-03-10 12:16 ./pymclevel/run_nbt_tests.sh
--rw-rw-r-- user/group     41894 2018-03-10 12:16 ./pymclevel/leveldb.pyc
--rwxr--r-- user/group        38 2018-03-10 12:16 ./pymclevel/nbt_test_linux.sh
+Target directory: mcedit-1.6.0.0-1521382932.7
+drwxrwxr-x user/group         0 2018-03-18 15:24 ./
+-rw-rw-r-- user/group      3232 2018-03-18 15:24 ./favicon.png
+-rw-rw-r-- user/group       261 2018-03-18 15:24 ./RELEASE-VERSION.json
+-rwxrwxr-x user/group       621 2018-03-18 15:24 ./install.sh
+-rw-rw-r-- user/group      2581 2018-03-18 15:24 ./folder.png
+-rwxrwxr-x user/group       399 2018-03-18 15:24 ./mcedit.sh
+drwxrwxr-x user/group         0 2018-03-18 15:24 ./fonts/
+-rw-rw-r-- user/group   5482304 2018-03-18 15:24 ./fonts/NotoSansTC-Bold.ttf
+-rw-rw-r-- user/group   5488432 2018-03-18 15:24 ./fonts/NotoSansTC-Medium.ttf
+-rw-rw-r-- user/group   8063724 2018-03-18 15:24 ./fonts/NotoSansHans-Medium.ttf
+-rw-rw-r-- user/group   2729368 2018-03-18 15:24 ./fonts/NotoSansKr-Light.ttf
+-rw-rw-r-- user/group    693876 2018-03-18 15:24 ./fonts/DejaVuSans-Bold.ttf
+-rw-rw-r-- user/group   2677568 2018-03-18 15:24 ./fonts/NotoSansKr-Medium.ttf
+-rw-rw-r-- user/group    741536 2018-03-18 15:24 ./fonts/DejaVuSans-Regular.ttf
+-rw-rw-r-- user/group   8054592 2018-03-18 15:24 ./fonts/NotoSansHans-Bold.ttf
+-rw-rw-r-- user/group    264424 2018-03-18 15:24 ./terrain.png
+-rw-rw-r-- user/group     12888 2018-03-18 15:24 ./LINUX_INSTALL.txt
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./stock-schematics/
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./stock-schematics/Spawners/
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Spider Spawner.schematic
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Wolf Spawner.schematic
+-rw-rw-r-- user/group       293 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Zombie.schematic
+-rw-rw-r-- user/group       301 2018-03-18 15:23 ./stock-schematics/Spawners/Zombie Baby Villager Spawner.schematic
+-rw-rw-r-- user/group       241 2018-03-18 15:23 ./stock-schematics/Spawners/Zombie Spawner.schematic
+-rw-rw-r-- user/group       243 2018-03-18 15:23 ./stock-schematics/Spawners/Wither Spawner.schematic
+-rw-rw-r-- user/group       239 2018-03-18 15:23 ./stock-schematics/Spawners/Slime Spawner.schematic
+-rw-rw-r-- user/group       241 2018-03-18 15:23 ./stock-schematics/Spawners/Pig Spawner.schematic
+-rw-rw-r-- user/group       331 2018-03-18 15:23 ./stock-schematics/Spawners/Wither Jockey Spawner.schematic
+-rw-rw-r-- user/group       241 2018-03-18 15:23 ./stock-schematics/Spawners/Ocelot Spawner.schematic
+-rw-rw-r-- user/group       242 2018-03-18 15:23 ./stock-schematics/Spawners/Magma Cube Spawner.schematic
+-rw-rw-r-- user/group       243 2018-03-18 15:23 ./stock-schematics/Spawners/Chicken Spawner.schematic
+-rw-rw-r-- user/group       239 2018-03-18 15:23 ./stock-schematics/Spawners/Witch Spawner.schematic
+-rw-rw-r-- user/group       242 2018-03-18 15:23 ./stock-schematics/Spawners/Cow Spawner.schematic
+-rw-rw-r-- user/group       239 2018-03-18 15:23 ./stock-schematics/Spawners/Snow Golom Spawner.schematic
+-rw-rw-r-- user/group       289 2018-03-18 15:23 ./stock-schematics/Spawners/Baby Zombie Spawner.schematic
+-rw-rw-r-- user/group       128 2018-03-18 15:23 ./stock-schematics/Spawners/Skeleton Spawner No Weapon.schematic
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Squid Spawner.schematic
+-rw-rw-r-- user/group       247 2018-03-18 15:23 ./stock-schematics/Spawners/Iron Golom Spawner.schematic
+-rw-rw-r-- user/group       243 2018-03-18 15:23 ./stock-schematics/Spawners/Cave Spider Spawner.schematic
+-rw-rw-r-- user/group       296 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Generic Spawner.schematic
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Creeper Spawner.schematic
+-rw-rw-r-- user/group       244 2018-03-18 15:23 ./stock-schematics/Spawners/Horse Spawner.schematic
+-rw-rw-r-- user/group       294 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Librarian Spawner.schematic
+-rw-rw-r-- user/group       630 2018-03-18 15:23 ./stock-schematics/Spawners/Baby Zombie Pigman Spawner.schematic
+-rw-rw-r-- user/group       245 2018-03-18 15:23 ./stock-schematics/Spawners/Ender Dragon Spawner.schematic
+-rw-rw-r-- user/group       238 2018-03-18 15:23 ./stock-schematics/Spawners/Bat Spawner.schematic
+-rw-rw-r-- user/group       324 2018-03-18 15:23 ./stock-schematics/Spawners/Spider Jockey Spawner.schematic
+-rw-rw-r-- user/group       293 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Priest Spawner.schematic
+-rw-rw-r-- user/group       271 2018-03-18 15:23 ./stock-schematics/Spawners/Minecart.schematic
+-rw-rw-r-- user/group       317 2018-03-18 15:23 ./stock-schematics/Spawners/Wither Skeleleton Spawner.schematic
+-rw-rw-r-- user/group       243 2018-03-18 15:23 ./stock-schematics/Spawners/Sivlerfish Spawner.schematic
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Ghast Spawner.schematic
+-rw-rw-r-- user/group       287 2018-03-18 15:23 ./stock-schematics/Spawners/Saddle Pig Spawner.schematic
+-rw-rw-r-- user/group       295 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Blacksmith Spawner.schematic
+-rw-rw-r-- user/group       439 2018-03-18 15:23 ./stock-schematics/Spawners/Giant Spawner.schematic
+-rw-rw-r-- user/group       244 2018-03-18 15:23 ./stock-schematics/Spawners/Zombie Pigman Spawner.schematic
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Enderman Spawner.schematic
+-rw-rw-r-- user/group       242 2018-03-18 15:23 ./stock-schematics/Spawners/Skeleton Spawner.schematic
+-rw-rw-r-- user/group       244 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Spawner.schematic
+-rw-rw-r-- user/group       292 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Farmer Spawner.schematic
+-rw-rw-r-- user/group       287 2018-03-18 15:23 ./stock-schematics/Spawners/Charged Creeper Spawner.schematic
+-rw-rw-r-- user/group       240 2018-03-18 15:23 ./stock-schematics/Spawners/Blaze Spawner.schematic
+-rw-rw-r-- user/group       295 2018-03-18 15:23 ./stock-schematics/Spawners/Villager Butcher Spawner.schematic
+-rw-rw-r-- user/group       245 2018-03-18 15:23 ./stock-schematics/Spawners/Mooshroom Spawner.schematic
+-rw-rw-r-- user/group       242 2018-03-18 15:23 ./stock-schematics/Spawners/Sheep Spawner.schematic
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/
+-rw-rw-r-- user/group       317 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/slime.schematic
+-rw-rw-r-- user/group       316 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/ghast.schematic
+-rw-rw-r-- user/group       496 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/wolf.schematic
+-rw-rw-r-- user/group       330 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/spider.schematic
+-rw-rw-r-- user/group       498 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/zombie.schematic
+-rw-rw-r-- user/group       498 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/creeper.schematic
+-rw-rw-r-- user/group       499 2018-03-18 15:23 ./stock-schematics/Mobs in Jars/skeleton.schematic
+-rw-rw-r-- user/group    272334 2018-03-18 15:24 ./terrain-pocket.png
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./Items/
+-rw-rw-r-- user/group      1838 2018-03-18 15:23 ./Items/en_GB
+-rw-rw-r-- user/group      1926 2018-03-18 15:23 ./Items/sv_SE
+-rw-rw-r-- user/group      1899 2018-03-18 15:23 ./Items/zh_CN
+-rw-rw-r-- user/group      1977 2018-03-18 15:23 ./Items/fr_FR
+-rw-rw-r-- user/group      1984 2018-03-18 15:23 ./Items/de_DE
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./Items/minecraft/
+-rw-rw-r-- user/group     36901 2018-03-18 15:23 ./Items/minecraft/blocks.json
+-rw-rw-r-- user/group     39592 2018-03-18 15:23 ./Items/minecraft/items.json
+-rw-rw-r-- user/group      3111 2018-03-18 15:24 ./TRANSLATION.txt
+-rw-rw-r-- user/group      1679 2018-03-18 15:24 ./Nbtsheet.png
+-rw-rw-r-- user/group      3939 2018-03-18 15:24 ./CONTRIBUTING.md
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./mcver/
+-rw-rw-r-- user/group      1365 2018-03-18 15:23 ./mcver/mcver.txt
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./mcver/1.11.2/
+-rw-rw-r-- user/group        17 2018-03-18 15:23 ./mcver/1.11.2/blocks.json
+-rw-rw-r-- user/group        17 2018-03-18 15:23 ./mcver/1.11.2/tileentities.json
+-rw-rw-r-- user/group        17 2018-03-18 15:23 ./mcver/1.11.2/entities.json
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./mcver/1.12/
+-rw-rw-r-- user/group     36765 2018-03-18 15:23 ./mcver/1.12/blocks.json
+-rw-rw-r-- user/group       755 2018-03-18 15:23 ./mcver/1.12/entities.json
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./mcver/PE/
+-rw-rw-r-- user/group    370618 2018-03-18 15:23 ./mcver/PE/blocks.json
+-rw-rw-r-- user/group     12334 2018-03-18 15:23 ./mcver/PE/entities.json
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./mcver/1.11/
+-rw-rw-r-- user/group    167072 2018-03-18 15:23 ./mcver/1.11/blocks.json
+-rw-rw-r-- user/group      2139 2018-03-18 15:23 ./mcver/1.11/tileentities.json
+-rw-rw-r-- user/group     17193 2018-03-18 15:23 ./mcver/1.11/entities.json
+-rw-rw-r-- user/group      1708 2018-03-18 15:24 ./char.png
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./stock-filters/
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./stock-filters/demo/
+-rwxrwxr-x user/group      5141 2018-03-18 15:23 ./stock-filters/demo/filterdemo.py
+-rwxrwxr-x user/group      4177 2018-03-18 15:23 ./stock-filters/demo/Test.py
+-rwxrwxr-x user/group      2281 2018-03-18 15:23 ./stock-filters/smooth.py
+-rw-rw-r-- user/group      2350 2018-03-18 15:23 ./stock-filters/smoothshape.py
+-rwxrwxr-x user/group     10724 2018-03-18 15:23 ./stock-filters/decliff.py
+-rw-rw-r-- user/group       509 2018-03-18 15:23 ./stock-filters/test.py
+-rw-rw-r-- user/group      1511 2018-03-18 15:23 ./stock-filters/mcInterface.py
+-rwxrwxr-x user/group      1879 2018-03-18 15:23 ./stock-filters/AddPotionEffect.py
+-rwxrwxr-x user/group     51634 2018-03-18 15:23 ./stock-filters/Forester.py
+-rw-rw-r-- user/group      3622 2018-03-18 15:23 ./stock-filters/NBTEdit.py
+-rwxrwxr-x user/group      3683 2018-03-18 15:23 ./stock-filters/MCEditForester.py
+-rw-rw-r-- user/group     13288 2018-03-18 15:23 ./stock-filters/Find.py
+-rwxrwxr-x user/group      1963 2018-03-18 15:23 ./stock-filters/surfacerepair.py
+-rw-rw-r-- user/group      8945 2018-03-18 15:23 ./stock-filters/CreateShops.py
+-rwxrwxr-x user/group     12797 2018-03-18 15:23 ./stock-filters/CreateBusses.py
+-rwxrwxr-x user/group      5274 2018-03-18 15:23 ./stock-filters/colorwires.py
+-rwxrwxr-x user/group      3211 2018-03-18 15:23 ./stock-filters/topsoil.py
+-rwxrwxr-x user/group      2508 2018-03-18 15:23 ./stock-filters/floodwater.py
+-rwxrwxr-x user/group      5569 2018-03-18 15:23 ./stock-filters/setbiome.py
+-rwxrwxr-x user/group      1626 2018-03-18 15:23 ./stock-filters/CreateSpawners.py
+-rwxrwxr-x user/group      1817 2018-03-18 15:23 ./stock-filters/BanSlimes.py
+-rwxrwxr-x user/group      4280 2018-03-18 15:23 ./stock-filters/ChangeMobs.py
+-rwxrwxr-x user/group      1075 2018-03-18 15:23 ./stock-filters/Invincible.py
+-rw-rw-r-- user/group    320836 2018-03-18 15:24 ./splash.png
+-rw-rw-r-- user/group    101130 2018-03-18 15:24 ./png.py
+drwxrwxr-x user/group         0 2018-03-18 15:24 ./splashes/
+-rw-rw-r-- user/group    109034 2018-03-18 15:24 ./splashes/splash2.png
+-rw-rw-r-- user/group    320836 2018-03-18 15:24 ./splashes/splash0.png
+-rw-rw-r-- user/group    194948 2018-03-18 15:24 ./splashes/imgo1.png
+-rw-rw-r-- user/group    117324 2018-03-18 15:24 ./splashes/splash1.png
+-rw-rw-r-- user/group     16418 2018-03-18 15:24 ./gui.png
+drwxrwxr-x user/group         0 2018-03-18 15:24 ./lang/
+-rw-rw-r-- user/group     46822 2018-03-18 15:24 ./lang/cs_CZ.trn
+-rw-rw-r-- user/group     34485 2018-03-18 15:24 ./lang/template.trn
+-rw-rw-r-- user/group     61491 2018-03-18 15:24 ./lang/de_DE.trn
+-rw-rw-r-- user/group     56123 2018-03-18 15:24 ./lang/zh_CN.trn
+-rw-rw-r-- user/group     46838 2018-03-18 15:24 ./lang/nl_NL.trn
+-rw-rw-r-- user/group     49403 2018-03-18 15:24 ./lang/zh_TW.trn
+-rw-rw-r-- user/group     59951 2018-03-18 15:24 ./lang/ko_KR.trn
+-rw-rw-r-- user/group     47867 2018-03-18 15:24 ./lang/sv_SE.trn
+-rw-rw-r-- user/group     60385 2018-03-18 15:24 ./lang/fr_FR.trn
+-rw-rw-r-- user/group   1782921 2018-03-18 15:24 ./LR5_mzu.fot
+-rw-rw-r-- user/group     92160 2018-03-18 15:24 ./xlib.tar.gz
+-rw-rw-r-- user/group      4445 2018-03-18 15:24 ./bo3.def
+-rwxrwxr-x user/group    627992 2018-03-18 15:24 ./cpngfilters.so
+-rw-rw-r-- user/group      2709 2018-03-18 15:24 ./setup.py
+-rw-rw-r-- user/group       752 2018-03-18 15:24 ./LICENSE.txt
+-rw-rw-r-- user/group      2223 2018-03-18 15:24 ./file.png
+-rw-rw-r-- user/group    114210 2018-03-18 15:24 ./install.pyc
+-rwxrwxr-x user/group    729438 2018-03-18 15:24 ./mcedit
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./toolicons/
+-rw-rw-r-- user/group      3046 2018-03-18 15:23 ./toolicons/player.png
+-rw-rw-r-- user/group       472 2018-03-18 15:23 ./toolicons/session_good.png
+-rw-rw-r-- user/group      2960 2018-03-18 15:23 ./toolicons/chunk.png
+-rw-rw-r-- user/group     24236 2018-03-18 15:23 ./toolicons/compass.png
+-rw-rw-r-- user/group      3061 2018-03-18 15:23 ./toolicons/selection2.png
+-rw-rw-r-- user/group      3114 2018-03-18 15:23 ./toolicons/schematic.png
+-rw-rw-r-- user/group       461 2018-03-18 15:23 ./toolicons/session_bad.png
+-rw-rw-r-- user/group      2878 2018-03-18 15:23 ./toolicons/clone.png
+-rw-rw-r-- user/group      2890 2018-03-18 15:23 ./toolicons/brush.png
+-rw-rw-r-- user/group      3188 2018-03-18 15:23 ./toolicons/crane.png
+-rw-rw-r-- user/group      3049 2018-03-18 15:23 ./toolicons/selection.png
+-rw-rw-r-- user/group      1219 2018-03-18 15:23 ./toolicons/nbtexplorer.png
+-rw-rw-r-- user/group      3043 2018-03-18 15:23 ./toolicons/fill.png
+-rw-rw-r-- user/group      1280 2018-03-18 15:23 ./toolicons/filter.png
+-rw-rw-r-- user/group      3178 2018-03-18 15:23 ./toolicons/playerspawn.png
+-rw-rw-r-- user/group      4404 2018-03-18 15:23 ./toolicons/day_night_cycle.png
+drwxrwxr-x user/group         0 2018-03-18 15:24 ./pymclevel/
+-rw-rw-r-- user/group         7 2018-03-18 15:24 ./pymclevel/requirements_test.txt
+-rwxr--r-- user/group      2760 2018-03-18 15:24 ./pymclevel/nbt_test_linux.py
+-rw-rw-r-- user/group       180 2018-03-18 15:24 ./pymclevel/eula.txt
+-rw-rw-r-- user/group       105 2018-03-18 15:24 ./pymclevel/profimg.sh
+-rw-rw-r-- user/group        13 2018-03-18 15:24 ./pymclevel/requirements.txt
+-rw-rw-r-- user/group     14949 2018-03-18 15:24 ./pymclevel/classic.json
+-rw-rw-r-- user/group     29283 2018-03-18 15:24 ./pymclevel/_nbt.pyx
+-rw-rw-r-- user/group        53 2018-03-18 15:24 ./pymclevel/setup.cfg
+-rwxrwxr-x user/group   1365745 2018-03-18 15:24 ./pymclevel/_nbt.so
+-rw-rw-r-- user/group     22027 2018-03-18 15:24 ./pymclevel/indev.json
+lrwxrwxrwx user/group         0 2018-03-18 15:24 ./pymclevel/libleveldb.so -> libleveldb.so.1.20
+-rw-rw-r-- user/group     35969 2018-03-18 15:24 ./pymclevel/test_leveldb.py
+-rw-rw-r-- user/group      5917 2018-03-18 15:24 ./pymclevel/run_regression_test.py
+-rw-rw-r-- user/group    142654 2018-03-18 15:24 ./pymclevel/pe_blockstates.json
+lrwxrwxrwx user/group         0 2018-03-18 15:24 ./pymclevel/libleveldb.so.1 -> libleveldb.so.1.20
+-rwxrwxr-x user/group    435170 2018-03-18 15:24 ./pymclevel/libleveldb.so.1.20
+-rw-rw-r-- user/group        99 2018-03-18 15:24 ./pymclevel/run_nbt_tests.sh
+-rw-rw-r-- user/group     41894 2018-03-18 15:24 ./pymclevel/leveldb.pyc
+-rwxr--r-- user/group        38 2018-03-18 15:24 ./pymclevel/nbt_test_linux.sh
 drwx------ user/group         0 2015-09-20 19:37 ./pymclevel/testfiles/
 -rw-rw-r-- user/group     55011 2014-03-11 01:30 ./pymclevel/testfiles/hell.mclevel
 drwx------ user/group         0 2017-10-19 21:32 ./pymclevel/testfiles/TileTicks_chunks/
@@ -485,38 +485,38 @@ drwx------ user/group         0 2017-10-19 21:32 ./pymclevel/testfiles/TileTicks
 -rw-rw-r-- user/group      6912 2014-03-11 01:30 ./pymclevel/testfiles/TileTicks_chunks/c.5.b.dat
 -rw-rw-r-- user/group        39 2014-03-11 01:30 ./pymclevel/testfiles/uncompressed.nbt
 -rw-rw-r-- user/group        55 2014-03-11 01:30 ./pymclevel/testfiles/modified_by_nbtexplorer.dat
--rw-rw-r-- user/group      1439 2018-03-10 12:16 ./pymclevel/setup.py
--rw-rw-r-- user/group      3486 2018-03-10 12:16 ./pymclevel/README.txt
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./pymclevel/test/
--rw-rw-r-- user/group       737 2018-03-10 12:16 ./pymclevel/test/time_nbt.py
--rw-rw-r-- user/group       565 2018-03-10 12:16 ./pymclevel/test/entity_test.py
--rw-rw-r-- user/group       883 2018-03-10 12:16 ./pymclevel/test/pocket_test.py
--rw-rw-r-- user/group       201 2018-03-10 12:16 ./pymclevel/test/test_primordial.py
--rw-rw-r-- user/group      2936 2018-03-10 12:16 ./pymclevel/test/schematic_test.py
--rw-rw-r-- user/group      6328 2018-03-10 12:16 ./pymclevel/test/nbt_test.py
--rw-rw-r-- user/group       701 2018-03-10 12:16 ./pymclevel/test/java_test.py
--rw-rw-r-- user/group      1394 2018-03-10 12:16 ./pymclevel/test/templevel.py
--rw-rw-r-- user/group      1287 2018-03-10 12:16 ./pymclevel/test/indev_test.py
--rw-rw-r-- user/group       238 2018-03-10 12:16 ./pymclevel/test/mcr_test.py
--rw-rw-r-- user/group      6338 2018-03-10 12:16 ./pymclevel/test/anvil_test.py
--rw-rw-r-- user/group       366 2018-03-10 12:16 ./pymclevel/test/session_lock_test.py
--rw-rw-r-- user/group        19 2018-03-10 12:16 ./pymclevel/test/__init__.py
--rw-rw-r-- user/group      1056 2018-03-10 12:16 ./pymclevel/test/server_test.py
--rw-rw-r-- user/group      1205 2018-03-10 12:16 ./pymclevel/test/extended_id_test.py
--rw-rw-r-- user/group      1163 2018-03-10 12:16 ./pymclevel/test/time_relight.py
--rw-rw-r-- user/group    235445 2018-03-10 12:16 ./pymclevel/pc_blockstates.json
--rw-rw-r-- user/group       733 2018-03-10 12:16 ./pymclevel/LICENSE.txt
--rw-rw-r-- user/group     15212 2018-03-10 12:16 ./pymclevel/setup_leveldb.py
--rw-rw-r-- user/group    245633 2018-03-10 12:16 ./pymclevel/pocket.json
--rw-rw-r-- user/group    165485 2018-03-10 12:16 ./pymclevel/minecraft.json
--rw-rw-r-- user/group     34431 2018-03-10 12:16 ./terrain-classic.png
--rw-rw-r-- user/group      3493 2018-03-10 12:16 ./cpngfilters.pyx
-drwxrwxr-x user/group         0 2018-03-10 12:16 ./stock-brushes/
--rw-rw-r-- user/group      4708 2018-03-10 12:16 ./stock-brushes/Varied Replace.py
--rw-rw-r-- user/group      2075 2018-03-10 12:16 ./stock-brushes/Topsoil.py
--rw-rw-r-- user/group      2572 2018-03-10 12:16 ./stock-brushes/Erode.py
--rw-rw-r-- user/group       669 2018-03-10 12:16 ./stock-brushes/Paste.py
--rw-rw-r-- user/group      1539 2018-03-10 12:16 ./stock-brushes/Replace.py
--rw-rw-r-- user/group      1154 2018-03-10 12:16 ./stock-brushes/Fill.py
--rw-rw-r-- user/group      4466 2018-03-10 12:16 ./stock-brushes/Varied Fill.py
--rw-rw-r-- user/group      4231 2018-03-10 12:16 ./stock-brushes/Flood Fill.py
+-rw-rw-r-- user/group      1439 2018-03-18 15:24 ./pymclevel/setup.py
+-rw-rw-r-- user/group      3486 2018-03-18 15:24 ./pymclevel/README.txt
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./pymclevel/test/
+-rw-rw-r-- user/group       737 2018-03-18 15:23 ./pymclevel/test/time_nbt.py
+-rw-rw-r-- user/group       565 2018-03-18 15:23 ./pymclevel/test/entity_test.py
+-rw-rw-r-- user/group       883 2018-03-18 15:23 ./pymclevel/test/pocket_test.py
+-rw-rw-r-- user/group       201 2018-03-18 15:23 ./pymclevel/test/test_primordial.py
+-rw-rw-r-- user/group      2936 2018-03-18 15:23 ./pymclevel/test/schematic_test.py
+-rw-rw-r-- user/group      6328 2018-03-18 15:23 ./pymclevel/test/nbt_test.py
+-rw-rw-r-- user/group       701 2018-03-18 15:23 ./pymclevel/test/java_test.py
+-rw-rw-r-- user/group      1394 2018-03-18 15:23 ./pymclevel/test/templevel.py
+-rw-rw-r-- user/group      1287 2018-03-18 15:23 ./pymclevel/test/indev_test.py
+-rw-rw-r-- user/group       238 2018-03-18 15:23 ./pymclevel/test/mcr_test.py
+-rw-rw-r-- user/group      6338 2018-03-18 15:23 ./pymclevel/test/anvil_test.py
+-rw-rw-r-- user/group       366 2018-03-18 15:23 ./pymclevel/test/session_lock_test.py
+-rw-rw-r-- user/group        19 2018-03-18 15:23 ./pymclevel/test/__init__.py
+-rw-rw-r-- user/group      1056 2018-03-18 15:23 ./pymclevel/test/server_test.py
+-rw-rw-r-- user/group      1205 2018-03-18 15:23 ./pymclevel/test/extended_id_test.py
+-rw-rw-r-- user/group      1163 2018-03-18 15:23 ./pymclevel/test/time_relight.py
+-rw-rw-r-- user/group    235445 2018-03-18 15:24 ./pymclevel/pc_blockstates.json
+-rw-rw-r-- user/group       733 2018-03-18 15:24 ./pymclevel/LICENSE.txt
+-rw-rw-r-- user/group     15212 2018-03-18 15:24 ./pymclevel/setup_leveldb.py
+-rw-rw-r-- user/group    245633 2018-03-18 15:24 ./pymclevel/pocket.json
+-rw-rw-r-- user/group    165485 2018-03-18 15:24 ./pymclevel/minecraft.json
+-rw-rw-r-- user/group     34431 2018-03-18 15:24 ./terrain-classic.png
+-rw-rw-r-- user/group      3493 2018-03-18 15:24 ./cpngfilters.pyx
+drwxrwxr-x user/group         0 2018-03-18 15:23 ./stock-brushes/
+-rw-rw-r-- user/group      4708 2018-03-18 15:23 ./stock-brushes/Varied Replace.py
+-rw-rw-r-- user/group      2075 2018-03-18 15:23 ./stock-brushes/Topsoil.py
+-rw-rw-r-- user/group      2572 2018-03-18 15:23 ./stock-brushes/Erode.py
+-rw-rw-r-- user/group       669 2018-03-18 15:23 ./stock-brushes/Paste.py
+-rw-rw-r-- user/group      1539 2018-03-18 15:23 ./stock-brushes/Replace.py
+-rw-rw-r-- user/group      1154 2018-03-18 15:23 ./stock-brushes/Fill.py
+-rw-rw-r-- user/group      4466 2018-03-18 15:23 ./stock-brushes/Varied Fill.py
+-rw-rw-r-- user/group      4231 2018-03-18 15:23 ./stock-brushes/Flood Fill.py
